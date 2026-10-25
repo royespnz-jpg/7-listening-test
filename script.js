@@ -6,7 +6,7 @@
 /* PASTE HERE the /exec URL of the Apps Script deployment of the
    7th grade Google Sheet. The answer key lives in that script, so
    this page only sends the student's answers. */
-const APPS_SCRIPT_URL = "";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzoQ61_7hZnCBURxsi3g5aWs3mypDSLmpnFtm8P4UfD-XvJV1Mu0HVW0-w52i5PqvlcIQ/exec";
 
 let examLocked = false;
 
